@@ -3,8 +3,8 @@
 
 本次介紹使用的版本為 python 3.7.3，共分兩部分，第一是 reCAPTCHA v3 的網站設定，當作測試網站，第二是驗證 reCAPTCHA v3 ，使用 break\_recaptcha\_v3.py 自動化驗證 reCAPTCHA v3。 ((本次範例只能解決簡單的v3，至於更進階的通用解，等有空再開新的repo介紹
 
-- [架設 reCAPTCHE v3 網站](架設 reCAPTCHA v3 網站)
-- [驗證 reCAPTCHA v3](驗證 reCAPTCHA v3)
+- <a href="#架設-recaptcha-v3-網站">架設 reCAPTCHA v3 網站</a>
+- <a href="#驗證-recaptcha-v3">驗證 reCAPTCHA v3</a>
 
 ## 架設 reCAPTCHA v3 網站
 
