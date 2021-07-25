@@ -38,6 +38,6 @@ break\_recaptcha\_v3.py 示範如何使用一般的 requests 取得有效的 rec
 <img src="examples/sitekey_co.png" width="66%"/>
 
 #### 第二步
-將 site key 跟 co 寫到 break\_recaptcha\_v3.py ，執行 `python break_recaptcha_v3.py`
+將 site key 跟 co 寫到 config/break\_v3\_config.py ，執行 `python break_recaptcha_v3.py`
 
 <img src="examples/run_v3.png" />
